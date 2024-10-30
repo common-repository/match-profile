@@ -1,0 +1,11 @@
+.wl_mp_container table {
+	width: 100% !important;
+}
+@media	(max-width:1366px){
+	.modal-dialog.modal-dialog-centered.modal-lg {
+	    max-width: 600px;
+	}
+}
+select.custom-select.custom-select-sm.form-control.form-control-sm {
+    padding: 0px 16px;
+}
